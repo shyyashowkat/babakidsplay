@@ -1711,11 +1711,11 @@ table {
 
 			section.wrapper  p, article.wrapper p {
 				font-size: 1em;
-				color: black;
+				color: blue;
 				text-align: justify;
 			}
 			section.wrapper article p{
-				color:blue;
+				color: blue;
 			}
 		section.wrapper article header, article.wrapper article header {
 			margin: 0;
@@ -1774,7 +1774,9 @@ table {
 
 		}
 
-	
+		#more {
+			display: none;
+		}
 
 /* Flex */
 
@@ -2909,9 +2911,11 @@ table {
 
 /* Footer */
 
+
 #footer.inner {
 	border-top: 1px solid #000000;
 	padding-top: 1%;
+	text-align: center;
 }
 
 
