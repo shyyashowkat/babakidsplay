@@ -1706,8 +1706,14 @@ table {
 			section.wrapper header p, article.wrapper header p {
 				font-size: 1em;
 				color: black;
+				
 			}
 
+			section.wrapper  p, article.wrapper p {
+				font-size: 1em;
+				color: black;
+				text-align: justify;
+			}
 			section.wrapper article p{
 				color:blue;
 			}
@@ -2841,7 +2847,7 @@ table {
 
 		#banner h1 {
 			font-size: 3em;
-			font-weight: bold;
+			font-weight: 500;
 			color: #fff;
 			line-height: 1em;
 		}
