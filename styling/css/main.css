@@ -2837,7 +2837,7 @@ table {
 /* Banner */
 
 	#banner {
-		padding: 10%;
+		padding: 5%;
 		background-image: url('../../images/banner.jpg');
 		background-size: cover;
 		background-position: top;
