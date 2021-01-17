@@ -2450,15 +2450,15 @@ table {
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background-color: #5a5a5a;
+		background-color: #000000;
 		border-radius: 0;
 		border: 0;
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
-		font-weight: 600;
-		height: 2.85em;
-		line-height: 2.95em;
+		font-weight: 500;
+		height: 2em;
+		line-height: 2em;
 		padding: 0 1.5em;
 		text-align: center;
 		text-decoration: none;
@@ -2925,7 +2925,7 @@ table {
 }
 
 #footer a:hover{
-	
+	padding: 0% 10%;
 	color: rgb(255, 0, 0);
 	}
 @media screen and (max-width: 736px) {

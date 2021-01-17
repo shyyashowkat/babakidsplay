@@ -1,3 +1,7 @@
+function pop() {
+  alert("Enter something!");
+}
+
 
 function myFunction1() {
     var dots = document.getElementById("dots1");
