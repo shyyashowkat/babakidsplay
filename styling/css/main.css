@@ -2925,7 +2925,7 @@ table {
 }
 
 #footer a:hover{
-	padding: 0%;
+	padding: 1%;
 	color: rgb(255, 0, 0);
 	}
 @media screen and (max-width: 736px) {
