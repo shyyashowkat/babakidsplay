@@ -1,5 +1,5 @@
 function pop() {
-  alert("Enter something!");
+  alert("A playground is more than swings, slides and a means to entertain children. The type of play that happens on a playground represents one of the more important parts of a child’s development. Playgrounds are an essential element to the health and development of the mind and body.");
 }
 
 
