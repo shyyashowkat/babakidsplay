@@ -11,6 +11,7 @@
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+	
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -1692,7 +1693,7 @@ table {
 	}
 
 		section.wrapper header, article.wrapper header {
-			margin-bottom: 1em;
+			margin-bottom: 0%;
 			color: black;
 			font-size: larger;
 			font-weight: bold;
@@ -2463,6 +2464,7 @@ table {
 		text-align: center;
 		text-decoration: none;
 		white-space: nowrap;
+		margin: 0%;
 	}
 
 		input[type="submit"]:hover,
